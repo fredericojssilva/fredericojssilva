@@ -1,4 +1,7 @@
-### Hi there 👋
+![output-onlinepngtools](https://user-images.githubusercontent.com/3028172/187237488-30c9a463-4f96-4e21-8dbe-a3030049c977.png)
+<br>Hi there 👋
+
+[![Frederico's GitHub stats](https://github-readme-stats.vercel.app/api?username=fredericojssilva&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **fredericojssilva/fredericojssilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
